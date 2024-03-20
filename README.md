@@ -28,6 +28,10 @@
 
 - Para este desafio se usó la libreria Faker que permite generar cantidades masivas de datos falsos (pero realistas) para pruebas y desarrollo.
 - Tambien se creo una lista con los departamentos de Colombia y con algunos trabajos.
+- Se usó un archivo Parquet ya que estos son binarios y están optimizados para análisis y procesamiento eficiente. Debido a su compresión y codificación de columnas, pueden proporcionar un rendimiento más rápido para consultas y análisis. Por otro lado los archivos .csv son archivos de texto plano y generalmente ocupan más espacio en disco en comparación con Parquet. Para grandes volúmenes de datos, esto puede afectar negativamente el rendimiento de las consultas y análisis.
+
+Documentación detallada: https://axiomatic-ticket-4ff.notion.site/PRUEBA-T-CNICA-INGENIERIA-DE-DATOS-ClOUD-LABS-c0c66396f7764631bb307487a12a13d5?pvs=4
+
 
 
 
