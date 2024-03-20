@@ -1,7 +1,8 @@
 # Ingenieria-de-datos-Cloud.
 ## Desafio #1 y #2
 
-*Construya un script que genere de forma automática los datos de: departamentos, puestos de trabajo, y empleados.*
+*#1 Construya un script que genere de forma automática los datos de: departamentos, puestos de trabajo, y empleados.*
+*#2 Guarde los datos simulados en archivos con formato CSV/Parquet. Explique el porqué de la escogencia del formato. No descarte usar la capa gratuita de algún servicio de almacenamiento tipo cloud, será considerado un plus.*
 
 **Creando Bucket S3:**
 ![image](https://github.com/1treu1/Ingenieria-de-datos-Cloud/assets/71142778/673247e2-ccab-497f-8849-684eb4f2b46f)
